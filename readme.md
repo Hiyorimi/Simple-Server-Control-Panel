@@ -28,6 +28,9 @@ $hosts = [
 ``` 
 - Access the index.php page.
 
+## Securing an installation
+This panel doesn't have any permission system, so one might want to secure an installation with setting up a [password authentication](https://www.digitalocean.com/community/tutorials/how-to-set-up-password-authentication-with-apache-on-ubuntu-14-04).
+
 ## Screenshot
 
 ![Main](https://github.com/Hiyorimi/Simple-Server-Control-Panel/raw/master/img/screen.png)
